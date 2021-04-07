@@ -1,1 +1,3 @@
 # covid-death-rate
+
+[Here is a link](https://djschoo.shinyapps.io/covid/) to a Shiny dashboard I made about Covid death rates and the Beat Your Genes podcast that I sometimes listen to...
